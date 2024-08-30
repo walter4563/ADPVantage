@@ -28,7 +28,7 @@ Walter Smith is a seasoned software developer with a passion for creating effici
 ## Getting Started
 
 ### 1.Clone the Repository:
-``git clone https://github.com/your-username/ADPVantage.git``
+``git clone https://github.com/walter4563/ADPVantage``
 
 ### 2.Navigate to the Project Directory:
 
