@@ -25,6 +25,27 @@ Walter Smith is a seasoned software developer with a passion for creating effici
 
 ## Getting Started
 
-### Clone the Repository:
-```bash
-git clone https://github.com/your-username/ADPVantage.git
+### 1.Clone the Repository:
+``git clone https://github.com/your-username/ADPVantage.git``
+
+### 2.Navigate to the Project Directory:
+
+  ``cd ADPVantage``
+
+
+### 3.Install Dependencies:
+``npm install``
+### 4.Start the Development Server:
+``npm start``
+## **Contribution Guidelines**
+We welcome contributions! To contribute:
+
+- Fork the repository.
+- Create a new branch for your changes.
+- Follow the project's coding standards.
+- Commit your changes and push to your fork.
+- Open a pull request to the main branch.
+Refer to the CONTRIBUTING.md file for detailed guidelines.
+
+## Getting help
+If you have any questions or need assistance, feel free to open an issue in the repository. The community and maintainers will be happy to assist you.
