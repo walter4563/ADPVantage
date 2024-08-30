@@ -1,7 +1,9 @@
 # ADPVantage
 
 ## Description
-ADPVantage is a powerful expense management tool designed to help businesses and individuals keep track of their expenses with ease. The application provides a user-friendly interface to input, categorize, and review expenses. With ADPVantage, users can generate detailed receipts, visualize expense data, and ensure that financial records are always up-to-date.
+ADPVantage is a powerful expense management tool designed to help businesses and individuals keep track of their expenses with ease.
+
+The application provides a user-friendly interface to input, categorize, and review expenses. With ADPVantage, users can generate detailed receipts, visualize expense data, and ensure that financial records are always up-to-date.
 
 ## Features
 - **Expense Tracking**: Easily log and categorize expenses.
